@@ -1,0 +1,101 @@
+[
+    {
+        "Id": "1",
+        "Name": "Lake Picture",
+        "Location": "Florida",
+        "Image": "LakePictureFL.jpeg",
+        "Value": "0",
+        "Category": "Sentimental",
+        "Desc": "A painting of Wolfeboro house currently hanging in the dining room of Florida property"
+    },
+    {
+        "Id": "2",
+        "Name": "MBR Furniture",
+        "Location": "Florida",
+        "Image": "Underconstruction.jpeg",
+        "Value": null,
+        "Category": "Furniture",
+        "Desc": "Master bedroom furniture"
+    },
+    {
+        "Id": "3",
+        "Name": "Bell Pole",
+        "Location": "Florida",
+        "Image": "Bell Pole.jpeg",
+        "Value": "0",
+        "Category": "Sentimental",
+        "Desc": "Bell pole"
+    },
+    {
+        "Id": "4",
+        "Name": "LR Rug",
+        "Location": "Florida",
+        "Image": "lr rug.jpeg",
+        "Value": "500",
+        "Category": "Valuable Item",
+        "Desc": "8x14 oriental rug"
+    },
+    {
+        "Id": "5",
+        "Name": "MBR Desk",
+        "Location": "Florida",
+        "Image": "br desk.jpeg",
+        "Value": null,
+        "Category": "Furniture",
+        "Desc": "writing desk"
+    },
+    {
+        "Id": "6",
+        "Name": "Lamps",
+        "Location": "Florida",
+        "Image": "lamps.jpeg",
+        "Value": null,
+        "Category": "Furniture",
+        "Desc": "2 lamps originally from MEG"
+    },
+    {
+        "Id": "7",
+        "Name": "Sunroom furniture",
+        "Location": "Florida",
+        "Image": "sunroom furniture.jpeg",
+        "Value": null,
+        "Category": "Furniture",
+        "Desc": "2 chairs and a couch, 4 years old"
+    },
+    {
+        "Id": "8",
+        "Name": "Guest Beds",
+        "Location": "Florida",
+        "Image": "guest beds.jpeg",
+        "Value": null,
+        "Category": "Furniture",
+        "Desc": "white wicker twin beds"
+    },
+    {
+        "Id": "9",
+        "Name": "Guest Dresser",
+        "Location": "Florida",
+        "Image": "guest br dresser.jpeg",
+        "Value": null,
+        "Category": "Furniture",
+        "Desc": "white wicker dresser and mirror"
+    },
+    {
+        "Id": "10",
+        "Name": "Army Photo",
+        "Location": "Florida",
+        "Image": "army.jpeg",
+        "Value": null,
+        "Category": "Sentimental",
+        "Desc": "Dad's army photo"
+    },
+    {
+        "Id": "11",
+        "Name": "Entry Table",
+        "Location": "Florida",
+        "Image": "entry table.jpeg",
+        "Value": null,
+        "Category": "Furniture",
+        "Desc": "This is not Aunt Mazie's table"
+    }
+]
