@@ -12,6 +12,9 @@ const FILTER_MAP = {
   Sentimenal: (item) => item.Category=='Sentimental',
   Jewelry: (item) => item.Category=='Jewelry',
   Furniture: (item) => item.Category=='Furniture',
+  Florida: (item) => item.Location=='Florida',
+  Concord: (item) => item.Location=='Concord',
+
 
 };
 const FILTER_NAMES = Object.keys(FILTER_MAP);
