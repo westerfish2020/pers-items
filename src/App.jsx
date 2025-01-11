@@ -7,23 +7,26 @@ import FilterButton from './components/FilterButton.jsx';
 import data from './assets/Personal Property Master List.json';
 import { useState } from "react";
 
-const FILTER_MAP = {
+const CATFILTER_MAP = {
   All: () => true,
   Sentimenal: (item) => item.Category=='Sentimental',
   Jewelry: (item) => item.Category=='Jewelry',
   Furniture: (item) => item.Category=='Furniture',
   Florida: (item) => item.Location=='Florida',
   Concord: (item) => item.Location=='Concord',
-
-
 };
-const FILTER_NAMES = Object.keys(FILTER_MAP);
+const LOCFILTER_MAP = {
+  All: () => true,
+  Florida: (item) => item.Location=='Florida',
+  Concord: (item) => item.Location=='Concord',
+};
+const FILTER_NAMES = Object.keys(CATFILTER_MAP);
 
 const App = () => {
   const [filter, setFilter] = useState("All");
 
   const cardList = data
-    .filter(FILTER_MAP[filter])
+    .filter(CATFILTER_MAP[filter])
     .map((item) => {
       let loc = '';
       if(item.Image){
