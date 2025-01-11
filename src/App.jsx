@@ -7,7 +7,6 @@ import FilterButton from './components/FilterButton.jsx';
 import data from './assets/Personal Property Master List.json';
 import { useState } from "react";
 
-// adding a comment to verify commit to Git works
 const FILTER_MAP = {
   All: () => true,
   Sentimenal: (item) => item.Category=='Sentimental',
@@ -27,7 +26,7 @@ const App = () => {
       if(item.Image){
         loc='/ajmpictures/'+item.Image;
       } else {
-        loc = '/ajmpictures/Underconstruction.jpeg'
+        loc = '/Images/underconstruction.gif'
       }
 
     return(

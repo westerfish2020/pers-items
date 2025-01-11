@@ -7,7 +7,7 @@ import './ItemCard.module.css';
 function ItemCard(props) {
   return (
       <Card className="col-6" >
-        <Card.Img className='card-img' variant="top" src={props.image}/>
+        <Card.Img className='card-img-top' variant="top" src={props.image}/>
         <Card.Body>
           <Card.Title>{props.name}</Card.Title>
           <Card.Text>
