@@ -4,17 +4,17 @@
         "Name": "Lake Picture",
         "Location": "Florida",
         "Image": "LakePictureFL.jpeg",
-        "Value": "0",
+        "Value": "$0",
         "Category": "Sentimental",
         "Desc": "A painting of Wolfeboro house currently hanging in the dining room of Florida property"
     },
     {
         "Id": "2",
-        "Name": "MBR Furniture",
+        "Name": "Master Bedroom Furniture",
         "Location": "Florida",
         "Image": "underconstruction.gif",
-        "Value": null,
-        "Category": "Furniture",
+        "Value": "N/A",
+        "Category": "N/A",
         "Desc": "Master bedroom furniture"
     },
     {
@@ -22,22 +22,22 @@
         "Name": "Bell Pole",
         "Location": "Florida",
         "Image": "Bell Pole.jpeg",
-        "Value": "0",
+        "Value": "$0",
         "Category": "Sentimental",
         "Desc": "Bell pole"
     },
     {
         "Id": "4",
-        "Name": "LR Rug",
+        "Name": "Livingroom Rug",
         "Location": "Florida",
         "Image": "lr rug.jpeg",
-        "Value": "500",
+        "Value": "$500",
         "Category": "Valuable Item",
         "Desc": "8x14 oriental rug"
     },
     {
         "Id": "5",
-        "Name": "MBR Desk",
+        "Name": "Master Bedroom Desk",
         "Location": "Florida",
         "Image": "br desk.jpeg",
         "Value": null,
@@ -97,5 +97,113 @@
         "Value": null,
         "Category": "Furniture",
         "Desc": "This is not Aunt Mazie's table"
+    },
+    {
+        "Id": "12",
+        "Name": "Front Door Rug",
+        "Location": "Florida",
+        "Image": "Front Door Rug.jpeg",
+        "Value": "$100",
+        "Category": "Valuable Item",
+        "Desc": null
+    },
+    {
+        "Id": "13",
+        "Name": "Livingroom Rug",
+        "Location": "Florida",
+        "Image": "LR Rug2.jpeg",
+        "Value": "$500",
+        "Category": "Valuable Item",
+        "Desc": null
+    },
+    {
+        "Id": "14",
+        "Name": "Master BR Dresser",
+        "Location": "Florida",
+        "Image": "MBR Dresser.jpeg",
+        "Value": null,
+        "Category": "Furniture",
+        "Desc": null
+    },
+    {
+        "Id": "15",
+        "Name": "Runner",
+        "Location": "Florida",
+        "Image": "Runner.jpeg",
+        "Value": "$250",
+        "Category": "Valuable Item",
+        "Desc": null
+    },
+    {
+        "Id": "16",
+        "Name": null,
+        "Location": null,
+        "Image": null,
+        "Value": null,
+        "Category": null,
+        "Desc": null
+    },
+    {
+        "Id": "17",
+        "Name": null,
+        "Location": null,
+        "Image": null,
+        "Value": null,
+        "Category": null,
+        "Desc": null
+    },
+    {
+        "Id": "18",
+        "Name": null,
+        "Location": null,
+        "Image": null,
+        "Value": null,
+        "Category": null,
+        "Desc": null
+    },
+    {
+        "Id": "19",
+        "Name": null,
+        "Location": null,
+        "Image": null,
+        "Value": null,
+        "Category": null,
+        "Desc": null
+    },
+    {
+        "Id": "20",
+        "Name": null,
+        "Location": null,
+        "Image": null,
+        "Value": null,
+        "Category": null,
+        "Desc": null
+    },
+    {
+        "Id": "21",
+        "Name": null,
+        "Location": null,
+        "Image": null,
+        "Value": null,
+        "Category": null,
+        "Desc": null
+    },
+    {
+        "Id": "22",
+        "Name": null,
+        "Location": null,
+        "Image": null,
+        "Value": null,
+        "Category": null,
+        "Desc": null
+    },
+    {
+        "Id": "23",
+        "Name": null,
+        "Location": null,
+        "Image": null,
+        "Value": null,
+        "Category": null,
+        "Desc": null
     }
 ]

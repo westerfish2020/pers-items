@@ -18,7 +18,7 @@ function ItemCard(props) {
             <li>Value:  {props.value}</li>
             <li>Location:  {props.location}</li>
           </ul>
-          <a href={props.image} target="_blank" className="btn btn-info" role="button">See Larger Picture</a>
+          <a href={props.image} target="_blank"  className="align-self-end btn btn-info" role="button">See Larger Picture</a>
         </Card.Body>
       </Card>
   );
