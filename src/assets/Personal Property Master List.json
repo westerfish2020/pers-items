@@ -49,57 +49,75 @@
         "Name": "Lamps",
         "Location": "Florida",
         "Image": "lamps.jpeg",
-        "Value": null,
+        "Value": "$30",
         "Category": "Furniture",
         "Desc": "2 lamps originally from MEG"
     },
     {
         "Id": "7",
+        "Name": "Glass Tables",
+        "Location": "Florida",
+        "Image": "sunroom furniture.jpeg",
+        "Value": "$199",
+        "Category": "Furniture",
+        "Desc": "Sofa and Coffee table"
+    },
+    {
+        "Id": null,
         "Name": "Sunroom furniture",
         "Location": "Florida",
         "Image": "sunroom furniture.jpeg",
-        "Value": null,
+        "Value": "$700",
         "Category": "Furniture",
         "Desc": "2 chairs and a couch, 4 years old"
     },
     {
-        "Id": "8",
+        "Id": null,
         "Name": "Guest Beds",
         "Location": "Florida",
         "Image": "guest beds.jpeg",
-        "Value": null,
+        "Value": "$400",
         "Category": "Furniture",
         "Desc": "white wicker twin beds"
     },
     {
-        "Id": "9",
+        "Id": null,
         "Name": "Guest Dresser",
         "Location": "Florida",
         "Image": "guest br dresser.jpeg",
-        "Value": null,
+        "Value": "$400",
         "Category": "Furniture",
         "Desc": "white wicker dresser and mirror"
     },
     {
-        "Id": "10",
+        "Id": null,
         "Name": "Army Photo",
         "Location": "Florida",
         "Image": "army.jpeg",
-        "Value": null,
+        "Value": "$0",
         "Category": "Sentimental",
         "Desc": "Dad's army photo"
     },
     {
-        "Id": "11",
+        "Id": null,
+        "Name": "Aunt M table",
+        "Location": "Florida",
+        "Image": "underconstruction.gif",
+        "Value": "$200",
+        "Category": "Furniture",
+        "Desc": "Flip antique table"
+    },
+    {
+        "Id": null,
         "Name": "Entry Table",
         "Location": "Florida",
         "Image": "entry table.jpeg",
-        "Value": null,
+        "Value": "$699",
         "Category": "Furniture",
         "Desc": "This is not Aunt Mazie's table"
     },
     {
-        "Id": "12",
+        "Id": null,
         "Name": "Front Door Rug",
         "Location": "Florida",
         "Image": "Front Door Rug.jpeg",
@@ -108,7 +126,7 @@
         "Desc": null
     },
     {
-        "Id": "13",
+        "Id": null,
         "Name": "Livingroom Rug",
         "Location": "Florida",
         "Image": "LR Rug2.jpeg",
@@ -117,16 +135,16 @@
         "Desc": null
     },
     {
-        "Id": "14",
+        "Id": null,
         "Name": "Master BR Dresser",
         "Location": "Florida",
         "Image": "MBR Dresser.jpeg",
-        "Value": null,
+        "Value": "$0",
         "Category": "Furniture",
-        "Desc": null
+        "Desc": "Included with MBR"
     },
     {
-        "Id": "15",
+        "Id": null,
         "Name": "Runner",
         "Location": "Florida",
         "Image": "Runner.jpeg",
@@ -135,39 +153,759 @@
         "Desc": null
     },
     {
-        "Id": "16",
+        "Id": null,
         "Name": "Dining Room FL",
         "Location": "Florida",
         "Image": "Dining Room.jpeg",
-        "Value": null,
+        "Value": "$1,900",
         "Category": "Furniture",
-        "Desc": null
+        "Desc": "Chest, table and chairs"
     },
     {
-        "Id": "17",
-        "Name": "Living Room FL",
+        "Id": null,
+        "Name": "Living Room couches",
         "Location": "Florida",
         "Image": "Living Room FL.jpeg",
-        "Value": null,
+        "Value": "$100",
         "Category": "Furniture",
-        "Desc": null
+        "Desc": "Red couches - $100; Tables - $120"
     },
     {
-        "Id": "18",
-        "Name": "Master BR FL",
+        "Id": null,
+        "Name": "Master BR Bedroom",
         "Location": "Florida",
         "Image": "Master BR FL.jpeg",
-        "Value": null,
+        "Value": "$1,800",
         "Category": "Furniture",
         "Desc": null
     },
     {
-        "Id": "19",
+        "Id": null,
         "Name": "Trophys",
         "Location": "Florida",
         "Image": "Trophys.jpeg",
-        "Value": null,
+        "Value": "$0",
         "Category": "Sentimental",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "Red couches",
+        "Location": "Florida",
+        "Image": "Living Room FL.jpeg",
+        "Value": "$100",
+        "Category": "Furniture",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "LR coffee/end tables",
+        "Location": "Florida",
+        "Image": "Living Room FL.jpeg",
+        "Value": "$120",
+        "Category": "Furniture",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "LR Blue Chairs",
+        "Location": "Florida",
+        "Image": "Living Room FL.jpeg",
+        "Value": "$25",
+        "Category": "Furniture",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "LR TV",
+        "Location": "Florida",
+        "Image": "Living Room FL.jpeg",
+        "Value": "$75",
+        "Category": "Furniture",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "Outside furniture",
+        "Location": "Florida",
+        "Image": "underconstruction.gif",
+        "Value": "$300",
+        "Category": "Furniture",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "Kitchen Table",
+        "Location": "Florida",
+        "Image": "underconstruction.gif",
+        "Value": "$450",
+        "Category": "Furniture",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "Outside Bench",
+        "Location": "Florida",
+        "Image": "underconstruction.gif",
+        "Value": "$50",
+        "Category": "Furniture",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "Master BR FL",
+        "Location": "Florida",
+        "Image": "Master BR FL.jpeg",
+        "Value": "$399",
+        "Category": "Furniture",
+        "Desc": "Desk"
+    },
+    {
+        "Id": null,
+        "Name": "Master BR FL",
+        "Location": "Florida",
+        "Image": "Master BR FL.jpeg",
+        "Value": "$200",
+        "Category": "Furniture",
+        "Desc": "Small Blue chair"
+    },
+    {
+        "Id": null,
+        "Name": "Kitchen Stuff",
+        "Location": "Florida",
+        "Image": "underconstruction.gif",
+        "Value": "$5",
+        "Category": "Furniture",
+        "Desc": "Box lot - $5-50"
+    },
+    {
+        "Id": null,
+        "Name": "China",
+        "Location": "Florida",
+        "Image": "underconstruction.gif",
+        "Value": "$25",
+        "Category": "Furniture",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "boat pin",
+        "Location": null,
+        "Image": "Misc silver jewelry.jpeg",
+        "Value": "$0",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "gold earrings",
+        "Location": null,
+        "Image": "Misc silver jewelry.jpeg",
+        "Value": "$0",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "shell earrings",
+        "Location": null,
+        "Image": "Misc silver jewelry.jpeg",
+        "Value": "$0",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "silver square earrings",
+        "Location": null,
+        "Image": "Misc silver jewelry.jpeg",
+        "Value": "$0",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "pearl non-pierced",
+        "Location": null,
+        "Image": "Misc silver jewelry.jpeg",
+        "Value": "$0",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "shell pin",
+        "Location": null,
+        "Image": "Misc silver jewelry.jpeg",
+        "Value": "$0",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "loose pearls",
+        "Location": null,
+        "Image": "Pearls.jpeg",
+        "Value": null,
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "pearl earrings",
+        "Location": null,
+        "Image": "Pearls.jpeg",
+        "Value": null,
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "3 strand pearl bracelet",
+        "Location": null,
+        "Image": "Pearls.jpeg",
+        "Value": null,
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "pearl necklace",
+        "Location": null,
+        "Image": "Pearls.jpeg",
+        "Value": null,
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "tiger eye",
+        "Location": null,
+        "Image": "misc2.jpeg",
+        "Value": "$450",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "chain link necklace",
+        "Location": null,
+        "Image": "misc2.jpeg",
+        "Value": "$3,500",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "silver watch necklace",
+        "Location": null,
+        "Image": "misc2.jpeg",
+        "Value": "$30",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "jade necklace",
+        "Location": null,
+        "Image": "misc2.jpeg",
+        "Value": "$300",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "gold cuff bracelet",
+        "Location": null,
+        "Image": "misc2.jpeg",
+        "Value": "$2,000",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "redsox bracelet",
+        "Location": null,
+        "Image": "misc3.jpeg",
+        "Value": "$0",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "gold/silver earrings",
+        "Location": null,
+        "Image": "misc3.jpeg",
+        "Value": "$0",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "hummingbird bracelet",
+        "Location": null,
+        "Image": "misc3.jpeg",
+        "Value": null,
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "hummingbird earrings",
+        "Location": null,
+        "Image": "misc3.jpeg",
+        "Value": null,
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "opal",
+        "Location": null,
+        "Image": "earrings.jpeg",
+        "Value": "$600",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "flowers",
+        "Location": null,
+        "Image": "earrings.jpeg",
+        "Value": "$475",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "saphire swirl",
+        "Location": null,
+        "Image": "earrings.jpeg",
+        "Value": "$500",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "charm bracelet",
+        "Location": null,
+        "Image": "bracelets.jpeg",
+        "Value": null,
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "double jade",
+        "Location": null,
+        "Image": "bracelets.jpeg",
+        "Value": "$545",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "single jade",
+        "Location": null,
+        "Image": "bracelets.jpeg",
+        "Value": "$835",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "linked gold",
+        "Location": null,
+        "Image": "bracelets.jpeg",
+        "Value": "$750",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "double link",
+        "Location": null,
+        "Image": "bracelets.jpeg",
+        "Value": "$1,050",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "jade round",
+        "Location": null,
+        "Image": "bracelets.jpeg",
+        "Value": "$1,600",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "pearl/gold",
+        "Location": null,
+        "Image": "bracelets.jpeg",
+        "Value": "$700",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "silver",
+        "Location": null,
+        "Image": "bracelets.jpeg",
+        "Value": "$27",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "smile charm",
+        "Location": null,
+        "Image": "bracelets.jpeg",
+        "Value": "$135",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "grandmother charm bracelet",
+        "Location": null,
+        "Image": "bracelets.jpeg",
+        "Value": "$1,700",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "seashell",
+        "Location": null,
+        "Image": "bracelets.jpeg",
+        "Value": "$800",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "Necklace, bracelet, earrings",
+        "Location": null,
+        "Image": "tiffany rope.jpeg",
+        "Value": "$16,300",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "rope",
+        "Location": null,
+        "Image": "bangles.jpeg",
+        "Value": "$1,250",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "flat twisted (tiffany)",
+        "Location": null,
+        "Image": "bangles.jpeg",
+        "Value": "$5,000",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "white/yellow",
+        "Location": null,
+        "Image": "bangles.jpeg",
+        "Value": "$500",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "flat yellow gold",
+        "Location": null,
+        "Image": "bangles.jpeg",
+        "Value": "$600",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "14k with pearl",
+        "Location": null,
+        "Image": "rings.jpeg",
+        "Value": "$150",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "emerald",
+        "Location": null,
+        "Image": "rings.jpeg",
+        "Value": "$200",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "silver garnet",
+        "Location": null,
+        "Image": "rings.jpeg",
+        "Value": "$70",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "ruby/diamonds",
+        "Location": null,
+        "Image": "rings.jpeg",
+        "Value": "$200",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "opal",
+        "Location": null,
+        "Image": "rings.jpeg",
+        "Value": "$300",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "pearl",
+        "Location": null,
+        "Image": "rings.jpeg",
+        "Value": "$175",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "yellow stone",
+        "Location": null,
+        "Image": "rings.jpeg",
+        "Value": "$165",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "rope",
+        "Location": null,
+        "Image": "awards necklaces.jpeg",
+        "Value": "$950",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "eagle",
+        "Location": null,
+        "Image": "awards necklaces.jpeg",
+        "Value": "$350",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "BP medal",
+        "Location": null,
+        "Image": "awards necklaces.jpeg",
+        "Value": "$345",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "BP pin",
+        "Location": null,
+        "Image": "awards necklaces.jpeg",
+        "Value": "$0",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "HR",
+        "Location": null,
+        "Image": "awards necklaces.jpeg",
+        "Value": "$200",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "pocket",
+        "Location": null,
+        "Image": "watches.jpeg",
+        "Value": "$150",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "omega small",
+        "Location": null,
+        "Image": "watches.jpeg",
+        "Value": "$600",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "mamies small",
+        "Location": null,
+        "Image": "watches.jpeg",
+        "Value": "$150",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "omega brown",
+        "Location": null,
+        "Image": "watches.jpeg",
+        "Value": "$200",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "omega black",
+        "Location": null,
+        "Image": "watches.jpeg",
+        "Value": "$300",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "rolex vintage",
+        "Location": null,
+        "Image": "watches.jpeg",
+        "Value": "$3,000",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "flowered jade",
+        "Location": null,
+        "Image": "misc earrings.jpeg",
+        "Value": "$150",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "emerald/diamonds",
+        "Location": null,
+        "Image": "misc earrings.jpeg",
+        "Value": "$115",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "garnet",
+        "Location": null,
+        "Image": "misc earrings.jpeg",
+        "Value": "$175",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "gold",
+        "Location": null,
+        "Image": "misc earrings.jpeg",
+        "Value": "$400",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "flowers/diamond",
+        "Location": null,
+        "Image": "misc earrings.jpeg",
+        "Value": "$155",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "basket",
+        "Location": null,
+        "Image": "pins.jpeg",
+        "Value": "$900",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "small flower",
+        "Location": null,
+        "Image": "pins.jpeg",
+        "Value": "$215",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "bee",
+        "Location": null,
+        "Image": "pins.jpeg",
+        "Value": "$400",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "hummingbird",
+        "Location": null,
+        "Image": "pins.jpeg",
+        "Value": "$260",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "large flower",
+        "Location": null,
+        "Image": "pins.jpeg",
+        "Value": "$1,100",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "pearl/saphire",
+        "Location": null,
+        "Image": "pins.jpeg",
+        "Value": "$250",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "flag",
+        "Location": null,
+        "Image": "pins.jpeg",
+        "Value": "$145",
+        "Category": "Jewelry",
+        "Desc": null
+    },
+    {
+        "Id": null,
+        "Name": "pearl/diamond",
+        "Location": null,
+        "Image": "pins.jpeg",
+        "Value": "$275",
+        "Category": "Jewelry",
         "Desc": null
     }
 ]
